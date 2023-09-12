@@ -1,0 +1,14 @@
+.container{
+    width: 100%;
+    flex-wrap: wrap;
+    align-items: center;
+    display: flex;
+}
+.item{
+    flex-grow: 1;
+    flex-basis: 50%;
+    text-align: center;
+}
+.about{
+    background-color: #E5F0FD;
+}
